@@ -1,0 +1,25 @@
+{
+  "name": "package-name",
+  "version": "0.0.9",
+  "authors": [
+    "Lead Developer"
+  ],
+  "description": "Project description.",
+  "main": "path/to/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.8.3",
+    "jquery": "~2.1.1",
+    "normalize-css": "~3.0.2"
+  },
+  "devDependencies": {
+    "handlebars": "~2.0.0"
+  }
+}
